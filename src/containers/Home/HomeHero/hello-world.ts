@@ -1,4 +1,5 @@
 const HelloWorld: {[isoLangCode: string]: string} = {
+  ar: 'مرحبًا بالعالم',
   el: 'Γεια σου κόσμε',
   en: 'Hello World',
   fj: 'Bula Vuravura',
